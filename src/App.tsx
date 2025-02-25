@@ -1,7 +1,7 @@
-import MathOlympiad from "./pages/MathOlympiad";
+import LandingPage from "./components/MainContent";
 
 const App = () => {
-  return <MathOlympiad />;
+  return <LandingPage />;
 };
 
 export default App;
