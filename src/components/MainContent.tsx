@@ -68,7 +68,7 @@ const LandingPage = () => {
 
         <div className="mt-8">
           <p className="text-2xl font-bold">Last Date for Registration</p>
-          <p className="text-lg">6th March 2025</p>
+          <p className="text-lg">8th March 2025</p>
         </div>
         
         <div className="mt-12 flex justify-center space-x-6 text-center">
